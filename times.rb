@@ -1,7 +1,6 @@
-7.times do
-	  puts "Windgardium Leviosa"
-	end
-	
+def using_times
+ 
+end
 
 
 
